@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\bin\Debug\InvestCalc.exe.config
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\bin\Debug\InvestCalc.exe
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\bin\Debug\InvestCalc.pdb
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc_MarkupCompile.cache
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc_MarkupCompile.lref
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.g.resources
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.Properties.Resources.resources
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.exe
+C:\Users\Администратор\Desktop\test1\InvestCalc\InvestCalc\obj\Debug\InvestCalc.pdb
